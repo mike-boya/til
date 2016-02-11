@@ -1,4 +1,4 @@
-# Append Today's Date to Filenames
+# Append Today's Date to a Filename
 
 I run a lot of log searches during my daily tasks and in order to keep track
 of my work I normally append a date to my output files. It also saves me some
