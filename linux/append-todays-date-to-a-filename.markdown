@@ -15,6 +15,4 @@ Let's check the output:
 ```bash
 $ ls
 notes_2016-02-11.txt
-$ cat notes_2016-02-11.txt
-foo
 ```
