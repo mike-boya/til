@@ -13,5 +13,12 @@ I hope to achieve a few things with this repo:
 
 Enjoy!
 
+---
+
 ### Contents
 * [Linux](#linux)
+
+---
+
+### Linux
+- [Appending Todays Date To A Filename](linux/append-todays-date-to-a-filename.markdown)
