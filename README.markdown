@@ -23,4 +23,5 @@ Enjoy!
 ### Linux
 - [Appending Todays Date To A Filename](linux/append-todays-date-to-a-filename.markdown)
 - [ROT13 Decode Alias](linux/rot13-decode-alias.markdown)
+- [!! and !$](linux/!!-and-!$.markdown)
 
