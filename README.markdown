@@ -17,7 +17,7 @@ Enjoy!
 
 ### Contents
 * [Linux](#linux)
-
+* [mac](#mac)
 ---
 
 ### Linux
@@ -25,3 +25,5 @@ Enjoy!
 - [ROT13 Decode Alias](linux/rot13-decode-alias.markdown)
 - [!! and !$](linux/!!-and-!$.markdown)
 
+### mac
+- [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
