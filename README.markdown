@@ -17,7 +17,8 @@ Enjoy!
 
 ### Contents
 * [Linux](#linux)
-* [mac](#mac)
+* [Mac](#mac)
+
 ---
 
 ### Linux
