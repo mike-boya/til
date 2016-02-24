@@ -26,5 +26,5 @@ Enjoy!
 - [ROT13 Decode Alias](linux/rot13-decode-alias.markdown)
 - [!! and !$](linux/!!-and-!$.markdown)
 
-### mac
+### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
