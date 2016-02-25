@@ -1,11 +1,13 @@
+# Naming a Screen Session
+
 When starting a new screen session use the <code> -S </code> flag to name it:
 
-bash```
+```bash
 $ screen -S <name>
 ```
 
 For example:
-bash```
+```bash
 $ screen -S irc
 $ screen -ls
 There is a screen on:
@@ -15,6 +17,6 @@ There is a screen on:
 
 This is helpful when running multiple log searches in screen. To reattach:
 
-bash```
+```bash
 $ screen -r irc
 ```
