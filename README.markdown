@@ -18,6 +18,7 @@ Enjoy!
 ### Contents
 * [Linux](#linux)
 * [Mac](#mac)
+* [Screen](#screen)
 
 ---
 
@@ -28,3 +29,6 @@ Enjoy!
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
+
+### Screen
+- [Naming a Screen Session](screen/naming-a-screen-session.markdown)
