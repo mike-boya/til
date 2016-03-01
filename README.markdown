@@ -26,6 +26,7 @@ Enjoy!
 - [Appending Todays Date To A Filename](linux/append-todays-date-to-a-filename.markdown)
 - [ROT13 Decode Alias](linux/rot13-decode-alias.markdown)
 - [!! and !$](linux/!!-and-!$.markdown)
+- [Unhide the GRUB Boot Menu in Ubuntu](linux/enable-grub-menu-ubuntu.markdown)
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
