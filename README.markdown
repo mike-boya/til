@@ -18,7 +18,9 @@ Enjoy!
 ### Contents
 * [Linux](#linux)
 * [Mac](#mac)
+* [OSINT] (#osint)
 * [Screen](#screen)
+
 
 ---
 
@@ -30,6 +32,9 @@ Enjoy!
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
+
+### OSINT
+- [Lookup a Malware Hash from the Command Line ](osint/lookup-malware-hash-from-the-commandline.markdown)
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
