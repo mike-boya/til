@@ -37,7 +37,8 @@ Enjoy!
 - [Run Urlsnarf Against a Pcap](network-forensics/run-urlsnarf-against-a-pcap.markdown)
 
 ### OSINT
-- [Lookup a Malware Hash from the Command Line ](osint/lookup-malware-hash-from-the-commandline.markdown)
+- [Lookup a Malware Hash from the Command Line](osint/lookup-malware-hash-from-the-commandline.markdown)
+- [Perform IP Lookups with Ipinfo](osint/ipinfo.markdown)
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
