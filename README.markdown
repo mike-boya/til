@@ -29,7 +29,7 @@ Enjoy!
 - [ROT13 Decode Alias](linux/rot13-decode-alias.markdown)
 - [!! and !$](linux/!!-and-!$.markdown)
 - [Unhide the GRUB Boot Menu in Ubuntu](linux/enable-grub-menu-ubuntu.markdown)
-- [Using Script and Script Replay](linux/using-script-and-script-replay.markdown)
+- [Using Script and Scriptreplay](linux/using-script-and-scriptreplay.markdown)
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)

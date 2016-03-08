@@ -1,4 +1,4 @@
-# Using Script and Script Replay
+# Using Script and Scriptreplay
 
 This is a very cool tool that I discovered during a forensics investigation. Technically
 it is two tools - *script* and *scriptreplay*. *Script* records the commands typed into a terminal
