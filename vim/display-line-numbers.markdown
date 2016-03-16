@@ -7,7 +7,7 @@ In order to display line numbers, press <code>ESC</code> and enter the command:
 ```
 :set number
 ```
-To disable the numbers enter command mode again and type:
+To hide the numbers enter command mode again and type:
 
 ```
 :set nonumber
