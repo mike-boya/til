@@ -10,6 +10,6 @@ In order to display line numbers, press <code>ESC</code> and enter the command:
 To disable the numbers enter command mode again and type:
 
 ```
-:set no number
+:set nonumber
 ```
 You can make this permanent by adding a line to your vimrc file but I prefer to only enable it when I need it.
