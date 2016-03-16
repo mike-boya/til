@@ -21,6 +21,7 @@ Enjoy!
 * [Network Forensics](#network-forensics)
 * [OSINT] (#osint)
 * [Screen](#screen)
+* [vim](#vim)
 
 ---
 
@@ -43,3 +44,6 @@ Enjoy!
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
+
+### Vim
+- [Display Line Numbers](display-line-numbers.markdown)
