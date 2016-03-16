@@ -21,7 +21,7 @@ Enjoy!
 * [Network Forensics](#network-forensics)
 * [OSINT] (#osint)
 * [Screen](#screen)
-* [vim](#vim)
+* [Vim](#vim)
 
 ---
 
