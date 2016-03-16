@@ -46,4 +46,4 @@ Enjoy!
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
 
 ### Vim
-- [Display Line Numbers](display-line-numbers.markdown)
+- [Display Line Numbers](vim/display-line-numbers.markdown)
