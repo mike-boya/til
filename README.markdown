@@ -37,6 +37,7 @@ Enjoy!
 
 ### Network Forensics
 - [Run Urlsnarf Against a Pcap](network-forensics/run-urlsnarf-against-a-pcap.markdown)
+- [Run a Pcap Through Snort](network-forensics/run-a-pcap-through-snort.markdown)
 
 ### OSINT
 - [Lookup a Malware Hash from the Command Line](osint/lookup-malware-hash-from-the-commandline.markdown)
