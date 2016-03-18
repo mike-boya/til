@@ -48,3 +48,4 @@ Enjoy!
 
 ### Vim
 - [Display Line Numbers](vim/display-line-numbers.markdown)
+- [Inserting Command Output Into a File](vim/inserting-command-output-into-a-file.markdown)
