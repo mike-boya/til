@@ -26,7 +26,7 @@ To where it bent in the undergrowth;
 
 After opening the file in vim, press ESC and type:
 ```
-%s/I/we/g
+:%s/I/we/g
 ```
 The command equates to <code>substitute/search/replace/global</code>. The
 replacement will happen instantly. I saved and quit to compare to the original
