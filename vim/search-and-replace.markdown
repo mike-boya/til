@@ -2,7 +2,7 @@
 
 When using vim, there are times when you need to replace a string in multiple
 locations within a file. For example, if you wanted to change a default log
-location from <code>/var/log/foo/</code> to <code>/var/log/data/<code> you might
+location from <code>/var/log/foo/</code> to <code>/var/log/data/</code> you might
 need to go alter 50 lines in order to cover all references to the old location.
 Using the following command you can search and replace all occurrences of the
 string in the config file:
