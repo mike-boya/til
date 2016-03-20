@@ -6,7 +6,7 @@ It can be a collection of name/value pairs or an ordered list of values.
 In Python 2.6+ you can use the built-in json tool to validate and pretty-print.
 
 ```bash
-$  cat foo
+$ cat foo
 {"one":1,"two":2,"three":3,"four":4,"five":5}
 ```
 Use Python's JSON tool to pretty-print the output:
