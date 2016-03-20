@@ -31,6 +31,7 @@ Enjoy!
 - [!! and !$](linux/!!-and-!$.markdown)
 - [Unhide the GRUB Boot Menu in Ubuntu](linux/enable-grub-menu-ubuntu.markdown)
 - [Using Script and Scriptreplay](linux/using-script-and-scriptreplay.markdown)
+- [Pretty Printing with Python JSON Tool](linux/pretty-printing-with-python-json-tool.markdown)
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
