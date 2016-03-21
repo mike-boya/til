@@ -35,7 +35,7 @@ Enjoy!
 - [Pretty Printing with Python JSON Tool](linux/pretty-printing-with-python-json-tool.markdown)
 
 ### Logging and Monitoring
--[Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
+- [Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
