@@ -17,6 +17,7 @@ Enjoy!
 
 ### Contents
 * [Linux](#linux)
+* [Logging and Monitoring](#logging-and-monitoring)
 * [Mac](#mac)
 * [Network Forensics](#network-forensics)
 * [OSINT] (#osint)
@@ -32,6 +33,9 @@ Enjoy!
 - [Unhide the GRUB Boot Menu in Ubuntu](linux/enable-grub-menu-ubuntu.markdown)
 - [Using Script and Scriptreplay](linux/using-script-and-scriptreplay.markdown)
 - [Pretty Printing with Python JSON Tool](linux/pretty-printing-with-python-json-tool.markdown)
+
+### Logging and Monitoring
+-[Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
