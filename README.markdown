@@ -33,6 +33,7 @@ Enjoy!
 - [Unhide the GRUB Boot Menu in Ubuntu](linux/enable-grub-menu-ubuntu.markdown)
 - [Using Script and Scriptreplay](linux/using-script-and-scriptreplay.markdown)
 - [Pretty Printing with Python JSON Tool](linux/pretty-printing-with-python-json-tool.markdown)
+- [Be Careful with Usermod](linux/be-careful-with-usermod.markdown)
 
 ### Logging and Monitoring
 - [Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
