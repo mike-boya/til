@@ -5,7 +5,7 @@ better. It's great to keep detailed notes and logs, but when constructing a resp
 timeline, I consistently ask myself, "When did I run that command?" Adding date
 and time to your history can assist with this. 
 
-Simply set the <code>HISTTIMEFORMAT<code> variable:
+Simply set the <code>HISTTIMEFORMAT</code> variable:
 
     $ HISTTIMEFORMAT="%Y%m%d %T "
 
