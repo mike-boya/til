@@ -38,6 +38,7 @@ Enjoy!
 
 ### Logging and Monitoring
 - [Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
+- [MARKing with Syslog](logging-and-monitoring/marking-with-syslog.markdown)
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
