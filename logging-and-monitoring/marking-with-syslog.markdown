@@ -1,7 +1,7 @@
 # MARKing with Syslog
 
-Syslog sends a lot of messages but how can you tell if those messages stop or it
-is just quiet evening. This issue was affecting my syslog setup and I was about
+Syslog sends a lot of messages, but how can you tell if those messages stop or it
+is just quiet evening? This issue was affecting my syslog setup and I was about
 to write up a short log beacon until my co-worker mentioned MARK, syslogs
 heartbeat. I performed the following test on rsyslog 7.4.4. 
 
