@@ -16,6 +16,7 @@ Enjoy!
 ---
 
 ### Contents
+* [Forensics](#foreniscs)
 * [Linux](#linux)
 * [Logging and Monitoring](#logging-and-monitoring)
 * [Mac](#mac)
@@ -25,6 +26,9 @@ Enjoy!
 * [Vim](#vim)
 
 ---
+
+### Forensics
+- [Converting EVTX to CSV](forensics/converting-evtx-to-csv.markdown)
 
 ### Linux
 - [Appending Todays Date To A Filename](linux/append-todays-date-to-a-filename.markdown)
