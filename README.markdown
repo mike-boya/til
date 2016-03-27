@@ -46,6 +46,7 @@ Enjoy!
 
 ### Mac
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
+- [Paste Without Formatting](mac/paste-without-formatting.markdown)
 
 ### Network Forensics
 - [Run Urlsnarf Against a Pcap](network-forensics/run-urlsnarf-against-a-pcap.markdown)
