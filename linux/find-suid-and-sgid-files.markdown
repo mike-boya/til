@@ -13,11 +13,11 @@ To identify SGID programs:
 
     $ sudo find / -perm -g=s -type f -exec ls -ld {} \; 2>/dev/null 
 
-'''Defensive:''' The results provided should be used to create a baseline in order
+**Defensive:** The results provided should be used to create a baseline in order
 to pinpoint any additions, deletions or modifications to the SUID/SGID programs on
 your systems. Any changes could indicate a potential attacker or misconfiguration
 and should be investigated further. 
 
-'''Offensive:''' These are also extremely useful during pentests when looking
+**Offensive:** These are also extremely useful during pentests when looking
 to escalate privileges on a linux system. Finding a script with these permissions
 set could grant elevated access, which could help to own the system.
