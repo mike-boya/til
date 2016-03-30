@@ -65,3 +65,4 @@ Enjoy!
 - [Inserting Command Output Into a File](vim/inserting-command-output-into-a-file.markdown)
 - [Search and Replace](vim/search-and-replace.markdown)
 - [Display Word Count](vim/display-word-count.markdown)
+- [Turn on Spell Check](vim/turn-on-spell-check.markdown)
