@@ -40,6 +40,7 @@ Enjoy!
 - [Be Careful with Usermod](linux/be-careful-with-usermod.markdown)
 - [Add Date and Time to History](linux/add-date-and-time-to-history.markdown)
 - [Find SUID and SGID Files](linux/find-suid-and-sgid-files.markdown)
+- [Using Time](linux/using-time.markdown)
 
 ### Logging and Monitoring
 - [Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
