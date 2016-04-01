@@ -1,4 +1,4 @@
-# Lookup an URL with URL2PNG
+# Lookup a URL with URL2PNG
 
 When investigating potentially malicious links a quick view of the page is sometimes necessary.
 
