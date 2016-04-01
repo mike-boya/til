@@ -57,6 +57,7 @@ Enjoy!
 ### OSINT
 - [Lookup a Malware Hash from the Command Line](osint/lookup-malware-hash-from-the-commandline.markdown)
 - [Perform IP Lookups with Ipinfo](osint/ipinfo.markdown)
+- [Lookup an URL with URL2PNG](osint/url2png.markdown)
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
