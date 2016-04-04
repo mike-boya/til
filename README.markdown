@@ -50,6 +50,7 @@ Enjoy!
 - [Show Hidden Files in Finder](mac/show-hidden-files.markdown)
 - [Paste Without Formatting](mac/paste-without-formatting.markdown)
 - [Additional Networking Info](mac/additional-networking-info.markdown)
+- [Default Screenshot Location](mac/default-screenshot-location.markdown)
 
 ### Network Forensics
 - [Run Urlsnarf Against a Pcap](network-forensics/run-urlsnarf-against-a-pcap.markdown)
