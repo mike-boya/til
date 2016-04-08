@@ -4,12 +4,12 @@ Making changes to syslog configs can be dangerous. A simple typo in a new filter
 could cause a major logging disruption, so it helps to run a quick syntax check
 before restarting the service.
 
-To run a syntax check with rsyslog, run the following commands:
+To run a syntax check with *rsyslog*, run the following commands:
 
     $ rsyslogd -N1
     $ echo $?
 
-Here is the equivalent commands for syslog-ng:
+Here is the equivalent commands for *syslog-ng*:
 
     $ syslog-ng -s
     $ echo $?
