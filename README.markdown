@@ -64,6 +64,7 @@ Enjoy!
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
+- [List Out Sessions](screen/list-out-sessions.markdown)
 
 ### Vim
 - [Display Line Numbers](vim/display-line-numbers.markdown)
