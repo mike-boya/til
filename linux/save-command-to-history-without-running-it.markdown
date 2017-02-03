@@ -2,7 +2,7 @@
 
 Typing out a long command and having to Ctrl+C to collect additional information from the shell can be frustrating and inefficient. I'm sure everyone has little solutions like copying before deleting, or opening another terminal. 
 
-I located a tip which will allow you to save the output without running the command. In order to save your command without running it just use 'history -s <COMMAND>'.
+I located a tip which will allow you to save the output without running the command. In order to save your command without running it just use 'history -s'.
 
 Here is a quick example:
 
