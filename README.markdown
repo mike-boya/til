@@ -39,6 +39,7 @@ Enjoy!
 - [Pretty Printing with Python JSON Tool](linux/pretty-printing-with-python-json-tool.markdown)
 - [Be Careful with Usermod](linux/be-careful-with-usermod.markdown)
 - [Add Date and Time to History](linux/add-date-and-time-to-history.markdown)
+- [Save Command To History Without Running It] (linux/save-command-to-history-without-running-it.markdown)
 - [Find SUID and SGID Files](linux/find-suid-and-sgid-files.markdown)
 - [Using Time](linux/using-time.markdown)
 
