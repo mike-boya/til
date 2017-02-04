@@ -42,6 +42,7 @@ Enjoy!
 - [Save Command To History Without Running It] (linux/save-command-to-history-without-running-it.markdown)
 - [Find SUID and SGID Files](linux/find-suid-and-sgid-files.markdown)
 - [Using Time](linux/using-time.markdown)
+- [cd -](linux/cd-dash.markdown)
 
 ### Logging and Monitoring
 - [Generating Messages with Logger](logging-and-monitoring/generating-messages-with-logger.markdown)
