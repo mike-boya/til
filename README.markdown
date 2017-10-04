@@ -33,6 +33,7 @@ Enjoy!
 ### Linux
 - [Appending Todays Date To A Filename](linux/append-todays-date-to-a-filename.markdown)
 - [ROT13 Decode Alias](linux/rot13-decode-alias.markdown)
+- [Reversing Strings](linux/reversing-strings.markdown)
 - [!! and !$](linux/!!-and-!$.markdown)
 - [Unhide the GRUB Boot Menu in Ubuntu](linux/enable-grub-menu-ubuntu.markdown)
 - [Using Script and Scriptreplay](linux/using-script-and-scriptreplay.markdown)
