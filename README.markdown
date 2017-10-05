@@ -21,6 +21,7 @@ Enjoy!
 * [Logging and Monitoring](#logging-and-monitoring)
 * [Mac](#mac)
 * [Network Forensics](#network-forensics)
+* [Pentesting](#pentesting)
 * [OSINT](#osint)
 * [Screen](#screen)
 * [Vim](#vim)
@@ -64,6 +65,9 @@ Enjoy!
 - [Lookup a Malware Hash from the Command Line](osint/lookup-malware-hash-from-the-commandline.markdown)
 - [Perform IP Lookups with Ipinfo](osint/ipinfo.markdown)
 - [Lookup a URL with URL2PNG](osint/url2png.markdown)
+
+### Pentesting
+-[Changing Your MAC Address](pentesting/changing-your-mac-address.markdown)
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
