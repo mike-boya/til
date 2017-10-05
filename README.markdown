@@ -67,7 +67,7 @@ Enjoy!
 - [Lookup a URL with URL2PNG](osint/url2png.markdown)
 
 ### Pentesting
--[Changing Your MAC Address](pentesting/changing-your-mac-address.markdown)
+- [Changing Your MAC Address](pentesting/changing-your-mac-address.markdown)
 
 ### Screen
 - [Naming a Screen Session](screen/naming-a-screen-session.markdown)
